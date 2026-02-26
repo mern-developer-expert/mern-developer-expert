@@ -26,7 +26,7 @@
 💼 **Current Role:** Software Developer at **Bright Digital Gold Pvt Ltd**  
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/mern-expert-amit/)) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Amitsin40190332) 
+[![LinkedIn][(https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/mern-expert-amit/))](https://www.linkedin.com/in/mern-developer-expert-amit/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Amitsin40190332) 
 
 ## 🛠️ **Tech Stack & Tools I Work With**
 
